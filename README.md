@@ -1,5 +1,7 @@
 # Atliq Data Analysis Project
 
+![Dashboard Screenshot](Atliq.jpeg)
+
 ## Project Overview
 This repository contains the Atliq Data Analysis project, an independent data analysis endeavor focused on enhancing the sales reporting capabilities of Atliq Hardware. The project involved a comprehensive analysis of over 150,000 real-world data entries from Atliq Hardware's MySQL sales database.
 
